@@ -1,6 +1,6 @@
 # Data-Alpaca
 
-Data-Alpaca is an asynchronous Python module for fetching, storing, and retrieving financial data from the Alpaca data provider. It is designed to be lightweight and easy to use, with support for asynchronous data retrieval and caching for improved performance.
+Data-Alpaca is a system for fetching, storing, and providing access to financial data using the Alpaca data provider API. It is designed to be easy to use, with a simple API for retrieving financial data and caching for improved performance.
 
 ## Features
 
